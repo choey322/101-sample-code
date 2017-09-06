@@ -10,10 +10,10 @@ body {
 
 /****** GRID ******/
 
-.full-width {
+/****.full-width {
     width: 1200px;
     margin: 0 auto;
-}
+}****/
 .half-width {
     width: 600px;
     float: left;
